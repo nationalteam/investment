@@ -13,8 +13,18 @@
 ## ETFs
 
 不想動腦買這個
+
 - VOO (Expenses: 0.03%)
 - VTI (Expenses: 0.03%)
+- QQQ (Expenses: 0.02%)
+- SPY (Expenses: 0.0945%)
+
+### Municipal bond ETF
+
+市政債 ETF
+
+- MUB (Expenses: 0.07%, Distribution yield: 2.43%) 不30%扣稅
+
 
 ## Citibank N.A.
 
