@@ -41,3 +41,4 @@
 - [ETF Database](https://etfdb.com/)
 - [Reddit/stocks](https://www.reddit.com/r/stocks/)
 - [Reddit/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
+- [Dividend Withholding Tax Table](https://www.theice.com/publicdocs/data/us_index_group_tax_withholding_table.pdf) 配息預扣稅表, 例如: 買台積ADR會被預扣20%
