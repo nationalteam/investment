@@ -12,7 +12,7 @@
 
 ## ETFs
 
-不想動腦買這個
+### 不想動腦買這個
 
 - VOO (Expenses: 0.03%)
 - VTI (Expenses: 0.03%)
@@ -25,7 +25,6 @@
 
 - MUB (Expenses: 0.07%, Distribution yield: 2.43%) 不30%扣稅
 
-
 ## Citibank N.A.
 
 - 一個月內匯出美國的次數不能超過六次(徵求來源)
@@ -35,3 +34,10 @@
 
 - 沒有其他美國收入的魯蛇只需要注意配息扣的30%稅
 > Do non-U.S. citizens pay taxes on money earned through a U.S. internet broker? https://www.investopedia.com/ask/answers/06/nonusresidenttax.asp
+
+## Links
+
+- [Yahoo Finance](https://finance.yahoo.com/)
+- [ETF Database](https://etfdb.com/)
+- [Reddit/stocks](https://www.reddit.com/r/stocks/)
+- [Reddit/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
