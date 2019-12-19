@@ -34,6 +34,7 @@
 
 - 沒有其他美國收入的魯蛇只需要注意配息扣的30%稅
 > Do non-U.S. citizens pay taxes on money earned through a U.S. internet broker? https://www.investopedia.com/ask/answers/06/nonusresidenttax.asp
+- [Dividend Withholding Tax Table](https://www.theice.com/publicdocs/data/us_index_group_tax_withholding_table.pdf) 配息預扣稅表, 例如: 買台積ADR會被預扣20%
 
 ## Links
 
@@ -41,4 +42,3 @@
 - [ETF Database](https://etfdb.com/)
 - [Reddit/stocks](https://www.reddit.com/r/stocks/)
 - [Reddit/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
-- [Dividend Withholding Tax Table](https://www.theice.com/publicdocs/data/us_index_group_tax_withholding_table.pdf) 配息預扣稅表, 例如: 買台積ADR會被預扣20%
