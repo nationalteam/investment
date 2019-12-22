@@ -16,7 +16,7 @@
 
 - VOO (Expenses: 0.03%)
 - VTI (Expenses: 0.03%)
-- QQQ (Expenses: 0.02%)
+- QQQ (Expenses: 0.2%)
 - SPY (Expenses: 0.0945%)
 
 ### Municipal bond ETF
