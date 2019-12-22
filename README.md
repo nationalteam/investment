@@ -16,6 +16,7 @@
 
 - VOO (Expenses: 0.03%)
 - VTI (Expenses: 0.03%)
+- VGT (Expenses: 0.10%)
 - QQQ (Expenses: 0.2%)
 - SPY (Expenses: 0.0945%)
 
