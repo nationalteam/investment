@@ -18,6 +18,7 @@
 |--------|-------------------------------------|----------|
 | VOO    | Vanguard S&P 500 ETF                | 0.03%    |
 | VTI    | Vanguard Total Stock Market ETF     | 0.03%    |
+| VUG    | Vanguard Growth ETF                 | 0.04%    |
 | VGT    | Vanguard Information Technology ETF | 0.10%    |
 | SPY    | SPDR S&P 500 ETF Trust              | 0.09%    |
 | QQQ    | PowerShares QQQ Trust Ser 1         | 0.20%    |
