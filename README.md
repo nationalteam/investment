@@ -30,6 +30,13 @@
 
 - MUB (Expenses: 0.07%, Distribution yield: 2.43%) 不30%扣稅
 
+### Closed end funds (CEF)
+
+| Symbol | Name                                                           | Dividend yield |
+|--------|----------------------------------------------------------------|----------------|
+| GOF    | Guggenheim Strategic Opportunities Fund of Beneficial Interest | 11.97%         |
+| GGM    | Guggenheim Credit Allocation Fund of Beneficial Interest       | 10.92%         |
+
 ## Citibank N.A.
 
 - 一個月內匯出美國的次數不能超過六次(徵求來源)
