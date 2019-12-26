@@ -20,6 +20,7 @@ def main(cash, stock):
     cerebro.broker.set_cash(cash)
     cerebro.addsizer(bt.sizers.AllInSizer)
     cerebro.addstrategy(SmaCross)
+    cerebro.addwriter(bt.WriterFile, out='{}.csv'.format(stock), csv=True)
 
     data = bt.feeds.YahooFinanceData(dataname=stock,
                                      fromdate=datetime(2009, 12, 24),
