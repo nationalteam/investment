@@ -18,7 +18,7 @@ class SmaCross(bt.SignalStrategy):
 def main(cash, stock):
     cerebro = bt.Cerebro()
     cerebro.broker.set_cash(cash)
-    cerebro.addsizer(bt.sizers.AllInSizer)
+    cerebro.addsizer(bt.sizers.AllInSizerInt)
     cerebro.addstrategy(SmaCross)
     cerebro.addwriter(bt.WriterFile, out='{}.csv'.format(stock), csv=True)
 
