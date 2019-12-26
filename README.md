@@ -30,7 +30,7 @@
 
 - MUB (Expenses: 0.07%, Distribution yield: 2.43%) 不30%扣稅
 
-### Closed end funds (CEF)
+## CEFs
 
 | Symbol | Name                                                           | Dividend yield |
 |--------|----------------------------------------------------------------|----------------|
