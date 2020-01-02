@@ -55,3 +55,4 @@
 - [Reddit/stocks](https://www.reddit.com/r/stocks/)
 - [Reddit/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
 - [金融市場假期時間表](https://www.firstrade.com/content/zh-tw/customerservice/faqs/holidays)
+- [ETF Channel](https://www.etfchannel.com/) 可以查該股票被哪些ETF持有
