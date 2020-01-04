@@ -10,9 +10,11 @@
 | 2, 5, 8, 11 | RDS.B | T     |
 | 3, 6, 9, 12 | MO    | RDS.B |
 
-## ETFs
+## Funds
 
-### 不想動腦買這個
+不想動腦買 VOO + GOF
+
+### ETFs
 
 | Symbol | Name                                         | Expenses |
 |--------|----------------------------------------------|----------|
@@ -24,13 +26,13 @@
 | SPY    | SPDR S&P 500 ETF Trust                       | 0.09%    |
 | QQQ    | PowerShares QQQ Trust Ser 1                  | 0.20%    |
 
-### Municipal bond ETF
+#### Municipal bond ETF
 
 市政債 ETF
 
 - MUB (Expenses: 0.07%, Distribution yield: 2.43%) 不30%扣稅
 
-## CEFs
+### CEFs
 
 | Symbol | Name                                                           | Dividend yield |
 |--------|----------------------------------------------------------------|----------------|
