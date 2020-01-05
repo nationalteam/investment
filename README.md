@@ -53,6 +53,7 @@
 ## Links
 
 - [Yahoo Finance](https://finance.yahoo.com/)
+- [Bloomberg](https://www.bloomberg.com)
 - [ETF Database](https://etfdb.com/)
 - [Reddit/stocks](https://www.reddit.com/r/stocks/)
 - [Reddit/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
