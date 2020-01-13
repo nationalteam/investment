@@ -1,5 +1,7 @@
 # 國家隊投資筆記
 
+
+
 ## Stock
 
 ### 每個月都會吐錢的組合
@@ -9,6 +11,16 @@
 | 1, 4, 7, 10 | T     | MO    |
 | 2, 5, 8, 11 | RDS.B | T     |
 | 3, 6, 9, 12 | MO    | RDS.B |
+
+## Dividend Aristocrats
+
+- Reference:
+  - [Dividend Aristocrats List](https://www.suredividend.com/dividend-aristocrats-list/)
+- Requirements:
+  - Be in the S&P 500
+  - Have 25+ consecutive years of dividend increases
+  - Meet certain minimum size & liquidity requirements
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1TlNCtwP0VM3DhZw_gFDRNo0XZhu_8C-jvATvYq5l8kY/edit?usp=sharing)
 
 ## Funds
 
