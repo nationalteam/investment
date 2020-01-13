@@ -1,7 +1,5 @@
 # 國家隊投資筆記
 
-
-
 ## Stock
 
 ### 每個月都會吐錢的組合
@@ -12,7 +10,7 @@
 | 2, 5, 8, 11 | RDS.B | T     |
 | 3, 6, 9, 12 | MO    | RDS.B |
 
-## Dividend Aristocrats
+### Dividend Aristocrats
 
 - Reference:
   - [Dividend Aristocrats List](https://www.suredividend.com/dividend-aristocrats-list/)
@@ -73,3 +71,4 @@
 - [ETF Channel](https://www.etfchannel.com/) 可以查該股票被哪些ETF持有
 - [Warren Buffett's Letters to Berkshire Shareholders](http://www.berkshirehathaway.com/letters/letters.html)
 - [國手美股推薦清單](https://docs.google.com/spreadsheets/d/1wXVTpzMk-5fNlLnl31DHJ2sY3Ex6FlH4wmbgTVkKps8/edit?usp=sharing)
+
