@@ -22,8 +22,6 @@
 
 ## Funds
 
-不想動腦買 VOO + GOF
-
 ### ETFs
 
 | Symbol | Name                                         | Expenses |
