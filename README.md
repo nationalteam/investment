@@ -62,6 +62,7 @@
 
 - [Yahoo Finance](https://finance.yahoo.com/)
 - [Bloomberg](https://www.bloomberg.com)
+- [TradingView](https://www.tradingview.com/) 看盤網站, 支援各國股票, 虛擬貨幣等等... 可分享對商品的看法, 大多為技術分析
 - [ETF Database](https://etfdb.com/)
 - [Reddit/stocks](https://www.reddit.com/r/stocks/)
 - [Reddit/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
@@ -69,4 +70,3 @@
 - [ETF Channel](https://www.etfchannel.com/) 可以查該股票被哪些ETF持有
 - [Warren Buffett's Letters to Berkshire Shareholders](http://www.berkshirehathaway.com/letters/letters.html)
 - [國手美股推薦清單](https://docs.google.com/spreadsheets/d/1wXVTpzMk-5fNlLnl31DHJ2sY3Ex6FlH4wmbgTVkKps8/edit?usp=sharing)
-
