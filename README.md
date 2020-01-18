@@ -71,3 +71,5 @@
 - [Warren Buffett's Letters to Berkshire Shareholders](http://www.berkshirehathaway.com/letters/letters.html)
 - [國手美股推薦清單](https://docs.google.com/spreadsheets/d/1wXVTpzMk-5fNlLnl31DHJ2sY3Ex6FlH4wmbgTVkKps8/edit?usp=sharing)
 - [MacroMicro 財經M平方](https://www.macromicro.me/) 查看全球景氣位置
+- [Stock-ai](https://stock-ai.com/)
+- [國發會-景氣指標查詢系統](https://index.ndc.gov.tw/)
