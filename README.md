@@ -74,3 +74,4 @@
 - [Stock-ai](https://stock-ai.com/)
 - [國發會-景氣指標查詢系統](https://index.ndc.gov.tw/)
 - [Backtest Portfolio Asset Allocation](https://www.portfoliovisualizer.com/backtest-portfolio) 回測資產配置的工具
+- [Understanding ETF liquidity and trading]  https://www.vanguard.nl/documents/understanding-etf-liquidity.pdf
