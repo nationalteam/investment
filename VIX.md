@@ -2,7 +2,8 @@
 
 - 看不懂就不要碰
 - 是大型法人的保險
-- 若要放空 VIXY, 可以買入 SVXY
+- 若要放空 VIXY, 可以買入 SVXY, 或是直接玩 VIXY 的 option
+- [VIX 的計算方法](http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-faqs#2)
 
 ## ETFs
 
