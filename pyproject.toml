@@ -1,0 +1,8 @@
+[project]
+name = "investment-docs"
+version = "0.1.0"
+description = "MkDocs site for investment notes"
+requires-python = ">=3.14"
+dependencies = [
+    "mkdocs>=1.6.1",
+]

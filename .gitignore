@@ -1,0 +1,15 @@
+# Local Codex marker
+.codex
+
+# Python cache artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# MkDocs build output
+site/
+
+# Common OS/editor files
+.DS_Store
