@@ -7,6 +7,6 @@ nav:
   - VIX: vix.md
 
 theme:
-  name: mkdocs
+  name: material
 
 use_directory_urls: false
