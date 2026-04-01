@@ -1,0 +1,12 @@
+site_name: Investment Notes
+site_description: Personal investment knowledge base
+repo_name: investment
+
+nav:
+  - Home: index.md
+  - VIX: vix.md
+
+theme:
+  name: mkdocs
+
+use_directory_urls: false
